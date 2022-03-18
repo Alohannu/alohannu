@@ -1,4 +1,4 @@
-<h1 align="center">Aloha 👋 Hannu here</h1>
+<h1 align="center">Aloha 👋 Hannu here 🌚 🌞</h1>
 <h3 align="center">A fresh full stack web developer from Germany, stationed in Berlin</h3>
 
 - 📫 How to reach me **tqh@posteo.net**
