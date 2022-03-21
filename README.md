@@ -18,4 +18,4 @@
 
 [<img src="https://www.codewars.com/users/Alohannu/badges/large">](https://www.codewars.com/users/Alohannu)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alohannu&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alohannu&theme=tokyonight)
