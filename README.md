@@ -1,6 +1,9 @@
 <h1 align="center">Aloha 👋 Hannu here 🌚 🌞</h1>
 <h3 align="center">A fresh full stack web developer from Germany, stationed in Berlin</h3>
 
+ First a little ice breaker joke for you 😏
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 - 📫 How to reach me **tqh@posteo.net**
 
 <h3 align="left">Connect with me:</h3>
