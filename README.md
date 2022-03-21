@@ -18,6 +18,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alohannu&theme=gotham&layout=compact)
 
+<h3 align="left">Codewars Stats:</h3>
+
 [<img src="https://www.codewars.com/users/Alohannu/badges/large">](https://www.codewars.com/users/Alohannu)
 
 
